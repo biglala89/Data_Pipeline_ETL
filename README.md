@@ -1,4 +1,4 @@
-### Analytics Pipeline
+### Content Pipeline
 
 This repo contains the code for creating a data pipeline to migrate data to new content management system:
 
