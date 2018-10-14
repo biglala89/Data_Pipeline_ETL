@@ -83,10 +83,6 @@ def err_dup_remove(p_len, p_lst):
                 for l in addition:
                     dm.write('{}\n\n'.format(l))
                 dm.write('-----END-----\n\n')
-        else:
-            pass
-    else:
-        pass
 
 #   Manage archive files    
 def manage_archive():
